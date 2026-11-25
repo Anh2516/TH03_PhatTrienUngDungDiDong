@@ -1,0 +1,29 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# IDE - Android Studio / IntelliJ
+.idea/
+*.hprof
+
+# Kotlin compiler logs
+.kotlin/
+
+# File tạm khi mở khóa bằng MS Word
+~$*.docx
+
+# Tệp sinh tự động
+__pycache__/
+*.pyc
