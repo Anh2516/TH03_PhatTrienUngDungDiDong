@@ -54,7 +54,7 @@ app/src/main/java/com/example/quan_ly_kho_hang/
 
 Báo cáo đồ án chi tiết nằm trong file [`QL_khohang.docx`](QL_khohang.docx), gồm 6 chương với phần tổng quan công nghệ, phân tích thiết kế, cài đặt, kết quả kiểm thử và hình ảnh giao diện thực tế.
 
-Các tệp `report_part*.py` và `build_report.py` dùng để sinh lại báo cáo Word từ `python-docx`.
+Các ảnh chụp màn hình trong báo cáo được lưu tại thư mục [`.report_images/`](.report_images).
 
 ### Giấy phép
 
